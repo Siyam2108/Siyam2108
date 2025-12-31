@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am Siyam<br><🔭 I’m currently working on automation <br>👯 I’m looking to collaborate on Open source projects<br>🤝 I’m looking for help with Automation<br>🌱 I’m currently learning Python<br>💬 Ask me about .............<br>
+<br>I am Siyam<br>🤝 I’m looking for help with Automation<br>🌱 I’m currently learning Python<br>💬 Ask me about .............<br>
 
 
 ## 🌐 Socials:
@@ -7,9 +7,6 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Siyam2108&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
