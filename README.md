@@ -1,4 +1,4 @@
-<h2 align="left">Assalamualaikum 👋! My name is Siyam, and I'm from Dhaka.</h2>
+<h2 align="left">Assalamualaikum 👋</h2>
 
 ###
 
